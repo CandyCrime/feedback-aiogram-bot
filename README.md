@@ -45,4 +45,4 @@ python bot.py
 ### [Мой телеграм для связи](https://t.me/CndCrime)
  id: 565801111
 
-
+### P.S. Моя первая работа на GitHub!
